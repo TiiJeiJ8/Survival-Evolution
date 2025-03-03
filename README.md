@@ -129,7 +129,10 @@ Current graphics driver: opengl
 
 ---
 
-> "真正的进化发生在代码之外" —— 项目格言
-> "生命会找到自己的出路" ——《侏罗纪公园》
-> "Life finds a way." —— Jurassic Park
-> "True evolution happens beyond code." —— Project Motto
+>"真正的进化发生在代码之外" —— 项目格言
+>
+>"生命会找到自己的出路" ——《侏罗纪公园》
+>
+>"Life finds a way." —— Jurassic Park
+>
+>"True evolution happens beyond code." —— Project Motto
